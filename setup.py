@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 setup(
     name='bottle-pony-rest',
     version='1.0',
-    packages=['bpr'],
+    packages=['bottle_pony_rest'],
     url='https://github.com/hulygun/bottle-pony-rest',
     license='MIT',
     author='hulygun',
